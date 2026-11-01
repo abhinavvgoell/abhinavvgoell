@@ -14,7 +14,7 @@ I enjoy turning ideas into working projects across **Java, Python, JavaScript, w
 ## 🚀 Recent work
 
 - **[axioma_v2](https://github.com/abhinavvgoell/axioma_v2)** — Python project
-- **[axioma](https://github.com/abhinavvgoell/axioma)** — JavaScript project
+- **[axioma](https://github.com/abhinavvgoell/axioma)**
 - **[icarus](https://github.com/abhinavvgoell/icarus)** — Python project
 - **[neetcode-submissions](https://github.com/abhinavvgoell/neetcode-submissions)** — Problem-solving practice
 
