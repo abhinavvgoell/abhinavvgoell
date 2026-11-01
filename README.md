@@ -1,32 +1,39 @@
-# Hi, I'm Abhinav 👋
+# Hey, I'm Abhinav 👋
 
-I'm a student developer who enjoys turning ideas into useful software. I work across **Java, Python, web development, backend systems, and applied machine learning**—building projects, learning by doing, and improving step by step.
+> Student developer building practical software, exploring machine learning, and learning in public.
 
-## What I build
+I enjoy turning ideas into working projects across **Java, Python, JavaScript, web development, backend systems, and applied machine learning**.
 
-- Web applications and backend systems
-- Java applications with JDBC and database integration
-- Python projects for data-driven problem solving
-- Applied machine learning prototypes and experiments
+## 🧩 What I'm working on
 
-## Featured projects
+- Building small, useful applications from scratch
+- Strengthening my backend and database fundamentals
+- Exploring data-driven problem solving and ML prototypes
+- Improving my problem-solving skills through consistent practice
 
-- **[Sepsis Early Warning Demo](https://github.com/abhinavvgoell/sepsis-early-warning-demo)** — A classroom research prototype using hourly ICU time-series data, with LightGBM, Logistic Regression, and Histogram Gradient Boosting baselines, patient-level evaluation, and a local demo interface. **For research and demonstration only; not for clinical use.**
-- **[NSIC MSME Portal](https://github.com/abhinavvgoell/nsic-msme-portal)** — An internship project focused on building a practical web portal.
-- **[FreshMart](https://github.com/abhinavvgoell/FreshMart)** — A Java application project.
-- **[CRUD-JDBC](https://github.com/abhinavvgoell/CRUD-JDBC)** — A Java project focused on CRUD operations with JDBC.
-- **[Student Portfolio](https://github.com/abhinavvgoell/student-portfolio)** — A personal portfolio website.
-- **[Game Zone](https://github.com/abhinavvgoell/game-zone)** — A web project built with HTML.
+## 🚀 Recent work
 
-## Skills and interests
+- **[axioma_v2](https://github.com/abhinavvgoell/axioma_v2)** — Python project
+- **[axioma](https://github.com/abhinavvgoell/axioma)** — JavaScript project
+- **[icarus](https://github.com/abhinavvgoell/icarus)** — Python project
+- **[neetcode-submissions](https://github.com/abhinavvgoell/neetcode-submissions)** — Problem-solving practice
 
-**Languages:** Java · Python · HTML · CSS  
-**Interests:** Applied machine learning · Web applications · Backend development · Databases · Data-driven projects
+## 🌱 Selected projects
 
-## Currently learning
+- **[Sepsis Early Warning Demo](https://github.com/abhinavvgoell/sepsis-early-warning-demo)** — A research and classroom prototype for exploring early-warning predictions from ICU time-series data. **For research and demonstration only; not for clinical use.**
+- **[NSIC MSME Portal](https://github.com/abhinavvgoell/nsic-msme-portal)** — Internship project.
+- **[FreshMart](https://github.com/abhinavvgoell/FreshMart)** — Java application project.
+- **[CRUD-JDBC](https://github.com/abhinavvgoell/CRUD-JDBC)** — Java CRUD project using JDBC.
+- **[Student Portfolio](https://github.com/abhinavvgoell/student-portfolio)** — Personal portfolio website.
+- **[Game Zone](https://github.com/abhinavvgoell/game-zone)** — HTML web project.
 
-I'm continuing to grow through hands-on projects, better documentation, and consistent iteration.
+## 🛠️ Tech I use
 
----
+**Languages:** Java · Python · JavaScript · HTML · CSS  
+**Interests:** Backend development · Web applications · Databases · Applied machine learning · Data-driven projects
 
-Thanks for visiting my profile!
+## 📌 My approach
+
+Build something real. Document what I learn. Iterate until it gets better.
+
+Thanks for stopping by!
