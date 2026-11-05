@@ -2,7 +2,7 @@
 
   # 💫 Hey, I'm <span style="color: #9d4edd;">Abhinav Goel</span> 👋
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A29BFE&center=true&vCenter=true&random=false&width=620&lines=Student+Developer+%7C+Building+Practical+Software+%F0%9F%9A%80;Java+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+Web+%E2%80%A2+Applied+ML+%E2%80%A2+Databases+%F0%9F%92%BB;Learning+in+public+%26+solving+problems+every+day+%E2%9C%A8;Iterating+until+it+gets+better+%F0%9F%94%A5)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A29BFE&center=true&vCenter=true&random=false&width=720&lines=Student+Developer+%7C+Building+Practical+Software+%F0%9F%9A%80;Java+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+Web+%E2%80%A2+Applied+ML+%F0%9F%92%BB;Learning+in+public+%26+solving+problems+every+day+%E2%9C%A8;Iterating+until+it+gets+better+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
   <br/>
 
