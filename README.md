@@ -9,7 +9,7 @@
   <!-- MOE-COUNTER (Anime Pixel Views Counter) -->
   <p align="center">
     <a href="https://github.com/abhinavvgoell">
-      <img src="https://count.getloli.com/get/@abhinavvgoell?theme=moebooru" alt="Profile Views" />
+      <img src="https://count.getloli.com/get/@abhinavvgoell?theme=moebooru&scale=2&pixelated=1" alt="Profile Views" width="480" />
     </a>
     <br/>
     <sub>🐾 <i>Profile Views & Visitor Counter</i></sub>
