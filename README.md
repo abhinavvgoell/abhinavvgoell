@@ -87,10 +87,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=abhinavvgoell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Abhinav's GitHub Stats" />
+        <img height="185em" src="https://github-stats-extended.vercel.app/api?username=abhinavvgoell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Abhinav's GitHub Stats" />
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavvgoell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhinavvgoell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -104,10 +104,10 @@
 
 <hr/>
 
-### 🏆 GitHub Trophies
+### 📈 Profile Highlights & Details
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavvgoell&theme=tokyonight&no-frame=true&no-bg=false&margin_w=4" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavvgoell&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <hr/>
