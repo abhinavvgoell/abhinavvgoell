@@ -18,10 +18,9 @@
   <br/>
 
   <!-- SOCIAL BADGES -->
-  <a href="https://linkedin.com/in/abhinavvgoel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abhinavvgoell" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:abhinavgoel206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/abhinavvgoell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://abhinavvgoell.github.io/student-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7952B3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
