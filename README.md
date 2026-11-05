@@ -9,10 +9,8 @@
   <!-- MOE-COUNTER (Anime Pixel Views Counter) -->
   <p align="center">
     <a href="https://github.com/abhinavvgoell">
-      <img src="https://counter.teruya.dev/get/@abhinavvgoell?theme=moebooru&scale=2" alt="Profile Views" width="480" />
+      <img src="https://counter.teruya.dev/get/@abhinavvgoell?theme=moebooru" alt="Profile Views" width="620" />
     </a>
-    <br/>
-    <sub>🐾 <i>Profile Views & Visitor Counter</i></sub>
   </p>
 
   <br/>
