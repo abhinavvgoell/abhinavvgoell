@@ -63,7 +63,7 @@
 
 <hr/>
 
-### 🚀 Selected Projects
+### 🚀  Top Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
